@@ -71,7 +71,7 @@ if RunService:IsStudio() then
 	Core = LocalPlayer:WaitForChild("PlayerGui")
 	Lucide = require(script.Parent:WaitForChild("Lucide"))
 else
-	Lucide = loadstring(game:HttpGet('https://raw.githubusercontent.com/Severity-svc/Ventures/refs/heads/main/Gui/NewGuiLibrary/Lucide%20Icons.lua'))()
+	Lucide = loadstring(game:HttpGet('https://raw.githubusercontent.com/saintsrevival1/imperium/refs/heads/main/icons'))()
 	Core = game:GetService("CoreGui")
 	Version = loadstring(game:HttpGet('https://raw.githubusercontent.com/Severity-svc/Ventures/refs/heads/main/Version.lua'))()
 	

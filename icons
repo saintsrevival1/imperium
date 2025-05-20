@@ -823,7 +823,7 @@ local Lucide = {
   ["lucide automatics"] = "rbxassetid://117970578744143",
   ["lucide misc"] = "rbxassetid://76123217284389",
   ["lucide pickaxe"] = "rbxassetid://86455087275926",
-  ["lucide upgrade"] = "rbxassetid://91944157823219",
+  ["lucide upgrade"] = "rbxassetid://72330883571843",
   ["lucide pet"] = "rbxassetid://88230211646365",
 }
 
